@@ -26,9 +26,7 @@
 
 ### Experience:
 
-All my projects and works. Latest:
-
-- [https://github.com/kat-panchenko?tab=repositories](https://github.com/kat-panchenko?tab=repositories)
+- [All my projects and works](https://github.com/kat-panchenko?tab=repositories)
 
 ---
 
